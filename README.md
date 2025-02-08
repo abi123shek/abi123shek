@@ -23,7 +23,7 @@ Enhancing system monitoring using Prometheus & Grafana
 ⬜ Advanced Terraform & Cloud Automation
 ⬜ Security & DevOps Best Practices
 
-📫 Let's Connect
-LinkedIn: https://www.linkedin.com/in/abishek-chamlagai/
-GitHub: www.github.com/abi123shek
+# 📫 Let's Connect
+* LinkedIn: https://www.linkedin.com/in/abishek-chamlagai/
+* GitHub: www.github.com/abi123shek
 💡 "Automate Everything, Deploy Everywhere!" 🚀
