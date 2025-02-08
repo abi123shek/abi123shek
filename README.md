@@ -24,6 +24,6 @@ Enhancing system monitoring using Prometheus & Grafana
 * ⬜ Security & DevOps Best Practices
 
 # 📫 Let's Connect
-* LinkedIn: https://www.linkedin.com/in/abishek-chamlagai/
+* LinkedIn: www.linkedin.com/in/abishek-chamlagai-0b05b232b
 * GitHub: www.github.com/abi123shek
 * 💡 "Automate Everything, Deploy Everywhere!" 🚀
