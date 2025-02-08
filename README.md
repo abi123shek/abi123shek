@@ -17,11 +17,11 @@
 Deploying applications on Kubernetes
 Automating CI/CD pipelines with Jenkins & ArgoCD
 Enhancing system monitoring using Prometheus & Grafana
-📚 Learning Roadmap
-✅ Docker & Kubernetes Basics
-✅ CI/CD with Jenkins & GitHub Actions
-⬜ Advanced Terraform & Cloud Automation
-⬜ Security & DevOps Best Practices
+* 📚 Learning Roadmap
+* ✅ Docker & Kubernetes Basics
+* ✅ CI/CD with Jenkins & GitHub Actions
+* ⬜ Advanced Terraform & Cloud Automation
+* ⬜ Security & DevOps Best Practices
 
 # 📫 Let's Connect
 * LinkedIn: https://www.linkedin.com/in/abishek-chamlagai/
