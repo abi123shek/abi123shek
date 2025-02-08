@@ -23,5 +23,5 @@ Enhancing system monitoring using Prometheus & Grafana
 
 📫 Let's Connect
 LinkedIn: https://www.linkedin.com/in/abishek-chamlagai/
-GitHub: [www.github.com/abi123shek]
+GitHub: www.github.com/abi123shek
 💡 "Automate Everything, Deploy Everywhere!" 🚀
