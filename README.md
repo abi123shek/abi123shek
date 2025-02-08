@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @abi123shek
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate with you peoples
-- 📫 How to reach me to my destination as soon as possible help me guys?i need is your support
+👋 Hi, I'm Abishek Chamlagai | Beginner DevOps Engineer 🚀
+🔹 Passionate about automation, cloud computing, and CI/CD
+🔹 Learning Kubernetes, Docker, Jenkins, Terraform, and AWS
+🔹 Exploring monitoring tools like Prometheus and Grafana
+🔹 Working on improving deployments with GitOps and ArgoCD
 
-<!---
-abi123shek/abi123shek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Skills & Tools
+Containerization: Docker, Kubernetes
+CI/CD: Jenkins, GitHub Actions
+Infrastructure as Code (IaC): Terraform, Ansible
+Cloud Platforms: AWS, Azure (learning phase)
+Monitoring & Logging: Prometheus, Grafana, ELK Stack
+Version Control: Git, GitHub
+🚀 Current Focus
+Deploying applications on Kubernetes
+Automating CI/CD pipelines with Jenkins & ArgoCD
+Enhancing system monitoring using Prometheus & Grafana
+📚 Learning Roadmap
+✅ Docker & Kubernetes Basics
+✅ CI/CD with Jenkins & GitHub Actions
+⬜ Advanced Terraform & Cloud Automation
+⬜ Security & DevOps Best Practices
+
+📫 Let's Connect
+LinkedIn: https://www.linkedin.com/in/abishek-chamlagai/
+GitHub: [www.github.com/abi123shek]
+💡 "Automate Everything, Deploy Everywhere!" 🚀
